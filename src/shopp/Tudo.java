@@ -30,7 +30,7 @@ public class Tudo {
 
 //		driver.findElement(By.name("username")).sendKeys("asd");
 //		driver.findElement(By.name("password")).sendKeys("asd");
-
+		String mano = "do seu";
 	}
 
 }
